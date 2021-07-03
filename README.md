@@ -13,7 +13,7 @@ I am a fullstack developer from Uyo, Nigeria
 <br>
 ## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="vue" src="https://img.shields.io/badge/react%20-%42b883a.svg?&style=for-the-badge&logo=vue&logoColor=%42b883a" />
+<img align="left" alt="vue" src="https://img.shields.io/badge/react%20-%42b883.svg?&style=for-the-badge&logo=Vue&logoColor=%42b883" />
 <img align="left" alt="php" src="https://img.shields.io/badge/react%20-%4f5b93.svg?&style=for-the-badge&logo=PHP&logoColor=%4f5b93" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <br>
