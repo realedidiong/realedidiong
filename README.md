@@ -11,11 +11,3 @@ I am a fullstack developer from Uyo, Nigeria
 <a href="https://twitter.com/TechnicalDee"><img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <br>
 <br>
-<br>
-<br>
-<h3>Expertise</h3>
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="php" src="https://img.shields.io/badge/php.svg?&style=for-the-badge&logo=PHP&logoColor=%4f5b93" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<br>
-<br>
