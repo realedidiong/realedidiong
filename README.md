@@ -1,4 +1,4 @@
-### As per coding tradition, Hello World 👋🏾.
+### As per developer tradition, Hello World 👋🏾.
 I am a fullstack developer from Uyo, Nigeria
 - 🔭 Working on multiple frontend and backend projects using Javascript(VueJS, NodeJS, ExpressJS) and PHP(Laravel).
 - 🌱 Learning design patterns in depth. TailwindCSS superman. Sass advocate.
