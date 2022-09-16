@@ -7,9 +7,9 @@ I am a fullstack developer from Uyo, Nigeria
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technicaldee&label=Profile%20views&color=ffdd10&style=flat" alt="technicaldee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=technicaldee" alt="adilimudassir" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=technicaldee" alt="technicaldee" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/adilimudassir" target="blank"><img src="https://img.shields.io/twitter/follow/adilimudassir?logo=twitter&style=for-the-badge" alt="adilimudassir" /></a> </p>
+<p align="left"> <a href="https://twitter.com/technicaldee" target="blank"><img src="https://img.shields.io/twitter/follow/technicaldee?logo=twitter&style=for-the-badge" alt="technicaldee" /></a> </p>
 
 <br>
 <h3> Connect with me </h3>
