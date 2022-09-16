@@ -3,6 +3,12 @@ I am a fullstack developer from Uyo, Nigeria
 - 🔭 Working on multiple frontend and backend projects using Javascript(VueJS, NodeJS, ExpressJS) and PHP(Laravel).
 - 🌱 Learning design patterns in depth. TailwindCSS superman. Sass advocate.
 <br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=technicaldee&label=Profile%20views&color=ffdd10&style=flat" alt="technicaldee" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=technicaldee" alt="adilimudassir" /></a> </p>
+
+<br>
 <h3> Connect with me </h3>
 <a href="https://www.linkedin.com/in/TechnicalDee"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@realedidiong"><img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
