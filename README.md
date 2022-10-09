@@ -2,7 +2,7 @@
 I am a fullstack developer from Uyo, Nigeria
 - 🔭 Working on multiple frontend and backend projects using Javascript(VueJS, NodeJS, ExpressJS) and PHP(Laravel).
 - 🌱 Learning design patterns in depth. TailwindCSS superman. Sass advocate.
-- 📄 Know about my experiences https://docs.google.com/document/d/1Ak4MWFazMrmt9a1azXl7JfCUADDurkqUGBMiX9DAHAQ/edit?usp=sharing](https://docs.google.com/document/d/1Ak4MWFazMrmt9a1azXl7JfCUADDurkqUGBMiX9DAHAQ/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1Ak4MWFazMrmt9a1azXl7JfCUADDurkqUGBMiX9DAHAQ/edit?usp=sharing](https://docs.google.com/document/d/1Ak4MWFazMrmt9a1azXl7JfCUADDurkqUGBMiX9DAHAQ/edit?usp=sharing)
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technicaldee&label=Profile%20views&color=ffdd10&style=flat" alt="technicaldee" /> </p>
